@@ -1,0 +1,20 @@
+.table {
+  border: 2px solid black;
+  width: 40%;
+  margin: 20px;
+  text-align: center;
+  border-collapse: collapse;
+}
+td {
+  padding: 10px;
+  margin: 20px;
+  border: 2px solid black;
+}
+.caption {
+  background-color: blue;
+  color: beige;
+  font-weight: bold;
+}
+th {
+  border: 2px solid black;
+}
